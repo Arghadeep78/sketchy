@@ -4,6 +4,8 @@ A lightweight, web-based canvas editor built for the SolarLadder assignment. Cre
 
 **Live demo:** https://solarladder-7b1fa.web.app
 
+**Demo video:** https://drive.google.com/file/d/15Pcp-QWrmrZFY-8MVU12TMjULgIPDNL1/view?usp=sharing
+
 ## Stack
 
 - React + Vite
